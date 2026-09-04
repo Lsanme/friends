@@ -1,0 +1,32 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "description": "For all time, always.",
+      "icon": "https://res.xaox.cc/gh/cdn-x/xaoxuu@main/avatar/2025.webp",
+      "snapshot": "https://bu.dusays.com/2022/10/23/63542895cfd29.png",
+      "feed": "https://xaoxuu.github.io/atom.xml",
+      "posts": [
+        {
+          "title": "Stellar 为什么没能进入 Hexo 主题头部",
+          "link": "https://xaoxuu.com/blog/20260815/",
+          "published": "2026-08-15 02:14"
+        },
+        {
+          "title": "梦境：无法定格的偶遇",
+          "link": "https://xaoxuu.com/blog/20260801/",
+          "published": "2026-08-01 15:24"
+        },
+        {
+          "title": "连续两个晚上做梦笑醒",
+          "link": "https://xaoxuu.com/blog/20260226/",
+          "published": "2026-02-26 20:00"
+        }
+      ],
+      "issue_number": 2,
+      "labels": []
+    }
+  ]
+}
